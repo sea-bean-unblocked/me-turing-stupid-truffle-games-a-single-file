@@ -287,3 +287,7 @@ Module.expectedDataFileDownloads++;
   loadPackage({"package_uuid":"d7e34743-2fea-4de6-8a0e-1103b5fcf07f","remote_package_size":10642513,"files":[{"filename":"/game.love","crunched":0,"start":0,"end":10642513,"audio":false}]});
 
 })();
+}
+window.onload = function() {
+  alert("Ghost Train Is Peak (Mr coffee was here)");
+};
