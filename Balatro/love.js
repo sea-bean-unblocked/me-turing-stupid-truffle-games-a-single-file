@@ -20,6 +20,4 @@ if (typeof exports === 'object' && typeof module === 'object')
     else if (typeof exports === 'object')
       exports["Love"] = Love;
     }
-window.onload = function() {
-  alert("Ghost Train Is Peak (Mr coffee was here)");
-};
+
